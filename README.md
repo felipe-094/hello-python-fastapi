@@ -6,8 +6,6 @@ Proyecto desarrollado con Python y FastAPI para aprender el desarrollo de APIs m
 
 * Python
 * FastAPI
-* Uvicorn
-* Pydantic
 * Git
 * GitHub
 
